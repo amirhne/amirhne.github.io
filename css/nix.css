@@ -11,7 +11,7 @@ html {
    font-family: 'tahrir' ;
  
    src: url("/fonts/mashitahriroldstyle.woff2") format('woff2'),
-   		url("http://amirhne.ir/fonts/mashitahriroldstyle.woff2") format('woff2');
+   		url("https://amirhne.ir/fonts/mashitahriroldstyle.woff2") format('woff2');
   /*unicode-range: U+0600-06FF; */
 
 }
