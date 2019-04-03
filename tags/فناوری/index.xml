@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>فناوری on amir@amirhne:~$</title>
+    <link>http://amirhne.me/tags/%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C/</link>
+    <description>Recent content in فناوری on amir@amirhne:~$</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://amirhne.me/tags/%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>استفاده از ضعف امنیتی winbox میکروتیک</title>
+      <link>http://amirhne.me/tech/mikrotik-winbox-exploit/</link>
+      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/tech/mikrotik-winbox-exploit/</guid>
+      <description>این اواخر خبری منتشر شد مبنی بر اینکه وبسایت زرین پال هدف حمله قرار گرفته است و در طی گزارش فنی که منتشر شد و من مطالعه کردم، مشخص شد که این حمله فقط در لایه شبکه و به یکی از روتر های میکروتیک لبه (Edge) و با استفاده از ضعف امنیتی CVE-2018-14847 بوده است.
+حفره امنیتی که مورد استفاده این مهاجمین قرار گرفته بوده است، میتوان گفت مدت زیادی است که از طرف میکروتیک اعلام شده است و آپدیت RouterOS جدید به سرعت از سمت میکروتیک برای استفاده قرار داده شده است.</description>
+    </item>
+    
+    <item>
+      <title>استارتاپ ها در خدمت سرمایه داری</title>
+      <link>http://amirhne.me/blog/startups-serving-capitalism/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/blog/startups-serving-capitalism/</guid>
+      <description>اولین بار که با مفهوم استارت آپ آشنا شدم مربوط به چندین سال پیش در یک برنامه با موضوع معرفی فناوری ها روز بود به نام کلیک که از بی بی سی فارسی پخش میشد و به مرور زمان این واژه بیشتر و بیشتر میشنیدم. اما بعد از داغ شدن بحث شرکت های دانش بنیان که در سیاست های اقتصاد مقاومتی بود و تسهیلاتی که به این شرکت ها داده میشد بحث استارتاپ ها در داخل داغ و داغ تر شد.</description>
+    </item>
+    
+    <item>
+      <title>استارتاپ ها در خدمت سرمایه داری</title>
+      <link>http://amirhne.me/posts/startups-serving-capitalism/</link>
+      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/posts/startups-serving-capitalism/</guid>
+      <description>اولین بار که با مفهوم استارت آپ آشنا شدم مربوط به چندین سال پیش در یک برنامه با موضوع معرفی فناوری ها روز بود به نام کلیک که از بی بی سی فارسی پخش میشد و به مرور زمان این واژه بیشتر و بیشتر میشنیدم. اما بعد از داغ شدن بحث شرکت های دانش بنیان که در سیاست های اقتصاد مقاومتی بود و تسهیلاتی که به این شرکت ها داده میشد بحث استارتاپ ها در داخل داغ و داغ تر شد.</description>
+    </item>
+    
+    <item>
+      <title>فیلترینگ واقعی</title>
+      <link>http://amirhne.me/blog/real-censorship/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/blog/real-censorship/</guid>
+      <description>بلاخره شایعات و حدس و گمان ها به پایان رسید و تلگرام فیلتر شد. اما نکته جالب این اتفاق این بود که دستور از دست خارج شدن این پیام رسان از سوی هیچگونه نهاد نظارتی و اجرایی نبود که تا قبل از این میشناختم و در کمال تعجب از جایی بود که متصور شدنش تا قبل از این اتفاق بسیار سخت بود، جایی به نام دادسرای فرهنگ و رسانه تهران!!!</description>
+    </item>
+    
+    <item>
+      <title>فیلترینگ واقعی</title>
+      <link>http://amirhne.me/posts/real-censorship/</link>
+      <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/posts/real-censorship/</guid>
+      <description>بلاخره شایعات و حدس و گمان ها به پایان رسید و تلگرام فیلتر شد. اما نکته جالب این اتفاق این بود که دستور از دست خارج شدن این پیام رسان از سوی هیچگونه نهاد نظارتی و اجرایی نبود که تا قبل از این میشناختم و در کمال تعجب از جایی بود که متصور شدنش تا قبل از این اتفاق بسیار سخت بود، جایی به نام دادسرای فرهنگ و رسانه تهران!!!</description>
+    </item>
+    
+    <item>
+      <title>من و خرده بورژوازی</title>
+      <link>http://amirhne.me/blog/me-and-petite-bourgeoisie/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/blog/me-and-petite-bourgeoisie/</guid>
+      <description>افرادی که به برنامه نویسی علاقمند هستند و این مسیر کاری را انتخاب میکنند، ملزومات و سرمایه ای که نیاز دارند فقط شامل یک لپ تاپ و یک ذهن خلاق است و دیگر هیچ&amp;hellip; همچنین دنیای متن باز دستشان را برای توسعه بسیار باز گذاشته است.
+اما بخت برگشتگانی که در حوزه کاری شبکه فعالیت دارند و به آن علاقمندند به خوبی میدانند که برای ادامه حیات کاری خود نیازمند مجموعه هایی هستند که یا کارشان مرتبط با شبکه باشد و یا نهاد هایی که نیازمند پیشتیبانی و توسعه زیرساخت های خود باشند.</description>
+    </item>
+    
+    <item>
+      <title>من و خرده بورژوازی</title>
+      <link>http://amirhne.me/posts/me-and-petite-bourgeoisie/</link>
+      <pubDate>Wed, 18 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/posts/me-and-petite-bourgeoisie/</guid>
+      <description>افرادی که به برنامه نویسی علاقمند هستند و این مسیر کاری را انتخاب میکنند، ملزومات و سرمایه ای که نیاز دارند فقط شامل یک لپ تاپ و یک ذهن خلاق است و دیگر هیچ&amp;hellip; همچنین دنیای متن باز دستشان را برای توسعه بسیار باز گذاشته است.
+اما بخت برگشتگانی که در حوزه کاری شبکه فعالیت دارند و به آن علاقمندند به خوبی میدانند که برای ادامه حیات کاری خود نیازمند مجموعه هایی هستند که یا کارشان مرتبط با شبکه باشد و یا نهاد هایی که نیازمند پیشتیبانی و توسعه زیرساخت های خود باشند.</description>
+    </item>
+    
+    <item>
+      <title>مارکس و فلسفه متن باز</title>
+      <link>http://amirhne.me/blog/marx-linux/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/blog/marx-linux/</guid>
+      <description>به صورت کلی اگر میخواستیم خلاصه ای از آنچه که مارکس میخواست را در یک جمله خلاصه کنیم این میشد: عدم تسلط طبقه بورژوازی بر عوامل تولید&amp;hellip;
+بدون شک تمام جریان های چپی که قد علم کردند از مارکسیست های انقلابی تا سوسیال دموکرات ها بر روی این مفهوم که عده ای خاص با تسلط خود بر روی عوامل تولید اقدام به تولید سرمایه برای خود میکنند و کارگران را استثمار میکنند، توافق دارند.</description>
+    </item>
+    
+    <item>
+      <title>مارکس و فلسفه متن باز</title>
+      <link>http://amirhne.me/posts/marx-linux/</link>
+      <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://amirhne.me/posts/marx-linux/</guid>
+      <description>به صورت کلی اگر میخواستیم خلاصه ای از آنچه که مارکس میخواست را در یک جمله خلاصه کنیم این میشد: عدم تسلط طبقه بورژوازی بر عوامل تولید&amp;hellip;
+بدون شک تمام جریان های چپی که قد علم کردند از مارکسیست های انقلابی تا سوسیال دموکرات ها بر روی این مفهوم که عده ای خاص با تسلط خود بر روی عوامل تولید اقدام به تولید سرمایه برای خود میکنند و کارگران را استثمار میکنند، توافق دارند.</description>
+    </item>
+    
+  </channel>
+</rss>
