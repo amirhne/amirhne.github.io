@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amirhne.me/quotes/6/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/quotes/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amirhne.me/quotes/5/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
@@ -10,6 +26,11 @@
   <url>
     <loc>https://amirhne.me/quotes/4/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/blog/</loc>
+    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -60,6 +81,12 @@
   <url>
     <loc>https://amirhne.me/blog/winter-is-coming/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/tech/</loc>
+    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -143,11 +170,6 @@
   </url>
   
   <url>
-    <loc>https://amirhne.me/tech/</loc>
-    <lastmod>2018-08-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amirhne.me/categories/</loc>
     <priority>0</priority>
   </url>
@@ -155,22 +177,6 @@
   <url>
     <loc>https://amirhne.me/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/blog/</loc>
-    <lastmod>2019-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/quotes/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
