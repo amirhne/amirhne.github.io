@@ -3,24 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amirhne.me/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/blog/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/blog/false-hope/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amirhne.me/quotes/9/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://amirhne.me/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://amirhne.me/quotes/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/blog/</loc>
-    <lastmod>2019-05-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
