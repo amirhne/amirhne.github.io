@@ -1,15 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://amirhne.me/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://amirhne.me/blog/</loc>
-    <lastmod>2019-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/blog/humiliation/</loc>
+    <lastmod>2019-11-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -159,11 +164,6 @@
   </url>
   
   <url>
-    <loc>https://amirhne.me/blog/ferrari/</loc>
-    <lastmod>2018-07-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://amirhne.me/blog/being-a-gamer-is-though-here/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
   </url>
@@ -216,11 +216,6 @@
   <url>
     <loc>https://amirhne.me/blog/marx-linux/</loc>
     <lastmod>2018-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/blog/lottery/</loc>
-    <lastmod>2018-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
