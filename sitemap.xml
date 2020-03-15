@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://amirhne.me/quotes/10/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://amirhne.me/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://amirhne.me/quotes/</loc>
+    <lastmod>2020-03-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -59,11 +69,6 @@
   
   <url>
     <loc>https://amirhne.me/quotes/9/</loc>
-    <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/quotes/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
   </url>
   
