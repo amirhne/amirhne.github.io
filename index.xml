@@ -288,16 +288,6 @@
     </item>
     
     <item>
-      <title>استفاده از ضعف امنیتی winbox میکروتیک</title>
-      <link>https://amirhne.me/tech/mikrotik-winbox-exploit/</link>
-      <pubDate>Thu, 09 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://amirhne.me/tech/mikrotik-winbox-exploit/</guid>
-      <description>این اواخر خبری منتشر شد مبنی بر اینکه وبسایت زرین پال هدف حمله قرار گرفته است و در طی گزارش فنی که منتشر شد و من مطالعه کردم، مشخص شد که این حمله فقط در لایه شبکه و به یکی از روتر های میکروتیک لبه (Edge) و با استفاده از ضعف امنیتی CVE-2018-14847 بوده است.
-حفره امنیتی که مورد استفاده این مهاجمین قرار گرفته بوده است، میتوان گفت مدت زیادی است که از طرف میکروتیک اعلام شده است و آپدیت RouterOS جدید به سرعت از سمت میکروتیک برای استفاده قرار داده شده است.</description>
-    </item>
-    
-    <item>
       <title>انتخاب نقش</title>
       <link>https://amirhne.me/blog/choose-the-role/</link>
       <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
