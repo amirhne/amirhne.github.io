@@ -8,9 +8,9 @@ html {
 
 @font-face {
 
-   font-family: 'JMHTypewriter' ;
+   font-family: 'main' ;
  
-   src: url("https://amirhne.me/en/fonts/JMHTypewriter.woff2") format('woff2');
+   src: url("https://amirhne.me/en/fonts/main.woff2") format('woff2');
 
 }
 body {
@@ -39,7 +39,7 @@ nav {
 
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'JMHTypewriter', cursive;
+	font-family: 'main', cursive;
     font-weight: bold;
 }
 
@@ -79,7 +79,7 @@ i {
 	float: right;
 /*	font-family: 'Amiri', serif;
 	font-size: x-large; */
-	font-family: 'JMHTypewriter', serif;
+	font-family: 'main', serif;
 	font-size: xx-large;
 	line-height: 180%;
 }
@@ -98,7 +98,7 @@ i {
 	clear: both;
 /*	font-family: 'Amiri', serif; 
 	font-size: x-large; */
-		font-family: 'JMHTypewriter', serif;
+		font-family: 'main', serif;
         font-size: xx-large;
 
 	line-height: 180%;
@@ -108,7 +108,7 @@ i {
 	padding: 0 5px 0 5px;
 /*	font-family: 'Amiri', serif; 
 	font-size: x-large; */
-		font-family: 'JMHTypewriter', serif;
+		font-family: 'main', serif;
         font-size: xx-large;
 	line-height: 180%;
 }
@@ -117,7 +117,7 @@ i {
 	padding-bottom: 5px;
 /*	font-family: 'Amiri', serif; 
 	font-size: large; */
-		font-family: 'JMHTypewriter', serif;
+		font-family: 'main', serif;
         font-size: xx-large;
 }
 
@@ -170,7 +170,7 @@ td {
 
 .user-description {
 /*	font-family: 'Amiri', serif; */
-		font-family: 'JMHTypewriter', serif;
+		font-family: 'main', serif;
         font-size: large;
 
 }
@@ -178,7 +178,7 @@ td {
 .post-title-single-custom {
 /*	font-family: 'Amiri', serif; 
 	font-size: xx-large; */
-		font-family: 'JMHTypewriter', serif;
+		font-family: 'main', serif;
         font-size: xx-large;
 }
 
