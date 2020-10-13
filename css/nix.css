@@ -8,10 +8,10 @@ html {
 
 @font-face {
 
-   font-family: 'tahrir' ;
+   font-family: 'main' ;
  
-   src: url("/fonts/mashitahriroldstyle.woff2") format('woff2'),
-   		url("https://amirhne.ir/fonts/mashitahriroldstyle.woff2") format('woff2');
+   src: url("/fonts/main.woff2") format('woff2'),
+   		url("https://amirhne.me/fonts/main.woff2") format('woff2');
   /*unicode-range: U+0600-06FF; */
 
 }
@@ -46,14 +46,14 @@ h1,h2,h3,h4,h5,h6 {
 
 #user-name {
 	font-size: -webkit-xxx-large;
-	font-family: tahrir;
+	font-family: main;
     font-weight: bold;
  /* text-transform: uppercase; */
 }
 
 .user-description {
 	border-style: solid;
-	line-height: normal;
+/*	line-height: normal; */
 	border-width: 5px;
 	border-color: #292929;
 	margin-top: 20px;
@@ -82,8 +82,8 @@ i {
 	float: right;
 /*	font-family: 'Amiri', serif;
 	font-size: x-large; */
-	font-family: 'tahrir', serif;
-	font-size: xx-large;
+	font-family: 'main', serif;
+	font-size: x-large;
 	line-height: 180%;
 }
 
@@ -101,8 +101,8 @@ i {
 	clear: both;
 /*	font-family: 'Amiri', serif; 
 	font-size: x-large; */
-	font-family: 'tahrir', serif;
-    font-size: xx-large;
+	font-family: 'main', serif;
+    font-size: x-large;
 	text-align: justify;
 	line-height: 180%;
 }
@@ -111,8 +111,8 @@ i {
 	padding: 0 5px 0 5px;
 /*	font-family: 'Amiri', serif; 
 	font-size: x-large; */
-		font-family: 'tahrir', serif;
-        font-size: xx-large;
+		font-family: 'main', serif;
+        font-size: x-large;
 	line-height: 180%;
 }
 
@@ -120,8 +120,8 @@ i {
 	padding-bottom: 5px;
 /*	font-family: 'Amiri', serif; 
 	font-size: large; */
-		font-family: 'tahrir', serif;
-        font-size: xx-large;
+		font-family: 'main', serif;
+        font-size: x-large;
 }
 
 #post-list {
@@ -173,16 +173,16 @@ td {
 
 .user-description {
 /*	font-family: 'Amiri', serif; */
-		font-family: 'tahrir', serif;
-        font-size: x-large;
+		font-family: 'main', serif;
+        font-size: large;
 
 }
 
 .post-title-single-custom {
 /*	font-family: 'Amiri', serif; 
 	font-size: xx-large; */
-		font-family: 'tahrir', serif;
-        font-size: xx-large;
+		font-family: 'main', serif;
+        font-size: x-large;
 }
 
 pre {
