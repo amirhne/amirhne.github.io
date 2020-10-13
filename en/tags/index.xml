@@ -5,10 +5,6 @@
     <link>https://amirhne.me/en/tags/</link>
     <description>Recent content in Tags on amir@amirhne:~$</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://amirhne.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://amirhne.me/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
