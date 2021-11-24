@@ -1,233 +1,144 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://amirhne.me/quotes/12/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://amirhne.me/</loc>
-    <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://amirhne.me/quotes/</loc>
+    <lastmod>2021-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://amirhne.me/blog/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/tamed/</loc>
     <lastmod>2021-03-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/11/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://amirhne.me/quotes/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/once-upon-a-time-in-bonyad/</loc>
     <lastmod>2020-07-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/10/</loc>
     <lastmod>2020-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/domino/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/humiliation/</loc>
     <lastmod>2019-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/any-more/</loc>
     <lastmod>2019-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/paradox/</loc>
     <lastmod>2019-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/surprised/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/blank/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/chance/</loc>
     <lastmod>2019-06-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/leasing-the-memories/</loc>
     <lastmod>2019-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/false-hope/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/9/</loc>
     <lastmod>2019-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/rescue/</loc>
     <lastmod>2019-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/8/</loc>
     <lastmod>2019-05-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/7/</loc>
     <lastmod>2019-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/garrison-subculture/</loc>
     <lastmod>2019-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/6/</loc>
     <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/5/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/4/</loc>
     <lastmod>2019-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/destructive-value/</loc>
     <lastmod>2019-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/ataraxia/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/3/</loc>
     <lastmod>2019-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/me-as-intj/</loc>
     <lastmod>2019-02-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/2/</loc>
     <lastmod>2019-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/quotes/1/</loc>
     <lastmod>2019-01-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/supreme-being/</loc>
     <lastmod>2018-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/ctrl&#43;shift&#43;delete/</loc>
     <lastmod>2018-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/being-rational/</loc>
     <lastmod>2018-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/winter-is-coming/</loc>
     <lastmod>2018-08-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/choose-the-role/</loc>
     <lastmod>2018-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/being-a-gamer-is-though-here/</loc>
     <lastmod>2018-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/false-gospel/</loc>
     <lastmod>2018-06-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/feudalism-is-alive/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/from-absolute-to-relative/</loc>
     <lastmod>2018-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/startups-serving-capitalism/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/real-censorship/</loc>
     <lastmod>2018-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/me-and-petite-bourgeoisie/</loc>
     <lastmod>2018-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/wastful-universities/</loc>
     <lastmod>2018-04-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/blog/start/</loc>
     <lastmod>2018-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://amirhne.me/tags/</loc>
   </url>
-  
 </urlset>
